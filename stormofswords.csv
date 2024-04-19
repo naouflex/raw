@@ -1,354 +1,354 @@
-from,to,value
-Aemon,Grenn,5
-Aemon,Samwell,31
-Aerys,Jaime,18
-Aerys,Robert,6
-Aerys,Tyrion,5
-Aerys,Tywin,8
-Alliser,Mance,5
-Amory,Oberyn,5
-Arya,Anguy,11
-Arya,Beric,23
-Arya,Bran,9
-Arya,Brynden,6
-Arya,Cersei,5
-Arya,Gendry,43
-Arya,Gregor,7
-Arya,Jaime,11
-Arya,Joffrey,6
-Arya,Jon,7
-Arya,Rickon,8
-Arya,Robert,4
-Arya,Roose,5
-Arya,Sandor,46
-Arya,Thoros,18
-Arya,Tyrion,5
-Balon,Loras,4
-Belwas,Barristan,18
-Belwas,Illyrio,10
-Beric,Anguy,4
-Beric,Gendry,4
-Beric,Thoros,21
-Bran,Hodor,96
-Bran,Jojen,46
-Bran,Jon,12
-Bran,Luwin,4
-Bran,Meera,54
-Bran,Nan,14
-Bran,Rickon,35
-Bran,Samwell,11
-Bran,Theon,11
-Brienne,Loras,7
-Bronn,Gregor,5
-Bronn,Podrick,19
-Brynden,Brynden,7
-Brynden,Lothar,4
-Brynden,Walder,5
-Catelyn,Bran,4
-Catelyn,Brienne,7
-Catelyn,Brynden,8
-Catelyn,Cersei,4
-Catelyn,Edmure,16
-Catelyn,Hoster,9
-Catelyn,Jaime,19
-Catelyn,Jeyne,10
-Catelyn,Lysa,8
-Catelyn,Petyr,5
-Catelyn,Robb,43
-Catelyn,Roose,4
-Catelyn,Roslin,6
-Catelyn,Sansa,8
-Catelyn,Stannis,4
-Catelyn,Tyrion,5
-Catelyn,Walder,19
-Cersei,Brienne,5
-Cersei,Bronn,4
-Cersei,Elia,4
-Cersei,Gregor,6
-Cersei,Ilyn,7
-Cersei,Jaime,36
-Cersei,Joffrey,23
-Cersei,Meryn,10
-Cersei,Pycelle,4
-Cersei,Robert,16
-Cersei,Sandor,6
-Cersei,Shae,4
-Cersei,Tyrion,46
-Cersei,Varys,4
-Craster,Karl,6
-Daario,Drogo,4
-Daario,Irri,5
-Daenerys,Aegon,8
-Daenerys,Barristan,20
-Daenerys,Belwas,26
-Daenerys,Daario,14
-Daenerys,Drogo,18
-Daenerys,Irri,17
-Daenerys,Jorah,47
-Daenerys,Kraznys,10
-Daenerys,Missandei,26
-Daenerys,Rakharo,7
-Daenerys,Rhaegar,12
-Daenerys,Robert,5
-Daenerys,Viserys,8
-Daenerys,Worm,14
-Davos,Cressen,4
-Davos,Salladhor,16
-Eddard,Arya,18
-Eddard,Beric,8
-Eddard,Bran,15
-Eddard,Catelyn,5
-Eddard,Cersei,6
-Eddard,Jaime,6
-Eddard,Jon,8
-Eddard,Rickon,8
-Eddard,Robb,13
-Eddard,Robert,10
-Eddard,Sandor,5
-Eddard,Sansa,6
-Eddison,Grenn,8
-Edmure,Brynden,7
-Edmure,Lothar,4
-Edmure,Roslin,16
-Edmure,Walder,9
-Gendry,Thoros,7
-Gilly,Craster,17
-Gregor,Elia,9
-Gregor,Ilyn,7
-Gregor,Meryn,7
-Gregor,Oberyn,24
-Gregor,Sandor,12
-Hodor,Jojen,35
-Hodor,Meera,41
-Hoster,Edmure,9
-Irri,Drogo,7
-Jaime,Balon,6
-Jaime,Barristan,4
-Jaime,Brienne,88
-Jaime,Edmure,5
-Jaime,Elia,4
-Jaime,Gregor,6
-Jaime,Joffrey,15
-Jaime,Loras,16
-Jaime,Meryn,11
-Jaime,Qyburn,11
-Jaime,Renly,7
-Jaime,Robert,17
-Jaime,Stannis,5
-Jaime,Tommen,8
-Jaime,Tyrion,31
-Janos,Alliser,9
-Janos,Bowen,5
-Janos,Mance,4
-Joffrey,Gregor,5
-Joffrey,Ilyn,4
-Joffrey,Kevan,8
-Joffrey,Loras,7
-Joffrey,Margaery,28
-Joffrey,Meryn,5
-Joffrey,Myrcella,5
-Joffrey,Oberyn,4
-Joffrey,Sandor,14
-Joffrey,Stannis,10
-Joffrey,Tommen,9
-Joffrey,Tyrion,54
-Jojen,Meera,33
-Jojen,Samwell,11
-Jon,Aemon,30
-Jon,Alliser,15
-Jon,Craster,7
-Jon,Dalla,6
-Jon,Eddison,4
-Jon,Gilly,9
-Jon,Grenn,25
-Jon,Janos,8
-Jon,Mance,69
-Jon,Meera,4
-Jon,Melisandre,7
-Jon,Orell,6
-Jon,Qhorin,31
-Jon,Rattleshirt,20
-Jon,Robert,5
-Jon,Samwell,52
-Jon,Stannis,9
-Jon,Styr,16
-Jon,Theon,8
-Jon,Val,12
-Jon,Ygritte,54
-Jon Arryn,Lysa,5
-Jon Arryn,Robert,6
-Jorah,Barristan,11
-Jorah,Belwas,13
-Jorah,Daario,7
-Jorah,Drogo,6
-Kevan,Lancel,7
-Kevan,Varys,5
-Loras,Margaery,9
-Loras,Olenna,5
-Lothar,Roslin,4
-Luwin,Nan,4
-Lysa,Cersei,4
-Lysa,Hoster,6
-Lysa,Marillion,10
-Lysa,Petyr,29
-Lysa,Robert Arryn,9
-Lysa,Tyrion,5
-Lysa,Tywin,4
-Mance,Craster,11
-Mance,Dalla,8
-Mance,Gilly,7
-Mance,Qhorin,10
-Mance,Rattleshirt,9
-Mance,Styr,7
-Mance,Val,8
-Mance,Ygritte,12
-Meera,Samwell,7
-Melisandre,Davos,30
-Melisandre,Samwell,5
-Meryn,Ilyn,5
-Missandei,Irri,4
-Myrcella,Tommen,5
-Myrcella,Tyrion,4
-Oberyn,Ellaria,6
-Oberyn,Mace,6
-Podrick,Margaery,4
-Rattleshirt,Qhorin,6
-Renly,Loras,8
-Renly,Margaery,7
-Renly,Varys,4
-Rhaegar,Barristan,5
-Rhaegar,Elia,7
-Rhaegar,Jorah,5
-Rhaegar,Robert,6
-Rickard,Brynden,4
-Rickon,Theon,8
-Robb,Arya,15
-Robb,Balon,6
-Robb,Bran,23
-Robb,Brienne,6
-Robb,Brynden,17
-Robb,Edmure,32
-Robb,Hodor,5
-Robb,Jaime,15
-Robb,Jeyne,18
-Robb,Joffrey,10
-Robb,Jon,14
-Robb,Lothar,10
-Robb,Petyr,5
-Robb,Ramsay,4
-Robb,Rickard,7
-Robb,Rickon,15
-Robb,Roose,4
-Robb,Sansa,15
-Robb,Stannis,4
-Robb,Theon,11
-Robb,Tyrion,12
-Robb,Tywin,12
-Robb,Walder,26
-Robert,Aemon,4
-Robert,Barristan,5
-Robert,Renly,4
-Robert,Stannis,5
-Robert,Thoros,4
-Robert Arryn,Marillion,4
-Roose,Brienne,4
-Samwell,Bowen,6
-Samwell,Craster,34
-Samwell,Eddison,12
-Samwell,Gilly,36
-Samwell,Grenn,43
-Samwell,Janos,6
-Samwell,Mance,10
-Samwell,Qhorin,5
-Sandor,Beric,15
-Sandor,Gendry,5
-Sandor,Ilyn,4
-Sandor,Meryn,4
-Sandor,Robert,6
-Sandor,Thoros,10
-Sansa,Arya,22
-Sansa,Bran,10
-Sansa,Brienne,5
-Sansa,Cersei,16
-Sansa,Jaime,10
-Sansa,Joffrey,35
-Sansa,Jon,4
-Sansa,Kevan,5
-Sansa,Loras,14
-Sansa,Lysa,28
-Sansa,Margaery,36
-Sansa,Marillion,9
-Sansa,Myrcella,4
-Sansa,Olenna,7
-Sansa,Petyr,28
-Sansa,Podrick,8
-Sansa,Renly,4
-Sansa,Rickon,7
-Sansa,Robert,5
-Sansa,Robert Arryn,6
-Sansa,Sandor,6
-Sansa,Shae,8
-Sansa,Tyrion,77
-Shae,Chataya,4
-Shae,Varys,8
-Shireen,Davos,5
-Stannis,Aemon,4
-Stannis,Balon,4
-Stannis,Davos,32
-Stannis,Melisandre,20
-Stannis,Renly,15
-Stannis,Samwell,13
-Tommen,Margaery,5
-Tyrion,Balon,4
-Tyrion,Bronn,31
-Tyrion,Chataya,5
-Tyrion,Doran,5
-Tyrion,Elia,5
-Tyrion,Ellaria,4
-Tyrion,Gregor,22
-Tyrion,Ilyn,5
-Tyrion,Janos,5
-Tyrion,Kevan,11
-Tyrion,Loras,6
-Tyrion,Mace,9
-Tyrion,Margaery,7
-Tyrion,Meryn,5
-Tyrion,Oberyn,25
-Tyrion,Petyr,12
-Tyrion,Podrick,28
-Tyrion,Pycelle,11
-Tyrion,Renly,6
-Tyrion,Robert,9
-Tyrion,Sandor,4
-Tyrion,Shae,21
-Tyrion,Stannis,6
-Tyrion,Varys,18
-Tywin,Balon,5
-Tywin,Brynden,4
-Tywin,Cersei,16
-Tywin,Gregor,7
-Tywin,Jaime,13
-Tywin,Joffrey,13
-Tywin,Kevan,14
-Tywin,Mace,5
-Tywin,Oberyn,6
-Tywin,Petyr,4
-Tywin,Podrick,5
-Tywin,Pycelle,5
-Tywin,Robert,11
-Tywin,Stannis,15
-Tywin,Tommen,4
-Tywin,Tyrion,39
-Tywin,Val,4
-Tywin,Varys,6
-Tywin,Walder,4
-Val,Dalla,7
-Varys,Pycelle,4
-Viserys,Rhaegar,7
-Viserys,Tyrion,4
-Walder,Lothar,12
-Walder,Petyr,6
-Walder,Roslin,6
-Walton,Jaime,10
-Ygritte,Qhorin,7
-Ygritte,Rattleshirt,9
+from,to,value,group,id
+Aemon,Grenn,5,Night's Watch,Brother of
+Aemon,Samwell,31,Night's Watch,Brother of
+Aerys,Jaime,18,Targaryen,Guard of
+Aerys,Robert,6,Targaryen,Rebel of
+Aerys,Tyrion,5,Targaryen,Subject of
+Aerys,Tywin,8,Targaryen,Hand of
+Alliser,Mance,5,Night's Watch,Enemy of
+Amory,Oberyn,5,Lannister,Enemy of
+Arya,Anguy,11,Stark,Friend of
+Arya,Beric,23,Stark,Ally of
+Arya,Bran,9,Stark,Sibling of
+Arya,Brynden,6,Stark,Ally of
+Arya,Cersei,5,Stark,Enemy of
+Arya,Gendry,43,Stark,Friend of
+Arya,Gregor,7,Stark,Enemy of
+Arya,Jaime,11,Stark,Enemy of
+Arya,Joffrey,6,Stark,Enemy of
+Arya,Jon,7,Stark,Sibling of
+Arya,Rickon,8,Stark,Sibling of
+Arya,Robert,4,Stark,Enemy of
+Arya,Roose,5,Stark,Enemy of
+Arya,Sandor,46,Stark,Protector of
+Arya,Thoros,18,Stark,Ally of
+Arya,Tyrion,5,Stark,Enemy of
+Balon,Loras,4,Iron Islands,Rival of
+Belwas,Barristan,18,Targaryen Ally,Protector of
+Belwas,Illyrio,10,Targaryen Ally,Ally of
+Beric,Anguy,4,Brotherhood Without Banners,Friend of
+Beric,Gendry,4,Brotherhood Without Banners,Friend of
+Beric,Thoros,21,Brotherhood Without Banners,Comrade of
+Bran,Hodor,96,Stark,Protector of
+Bran,Jojen,46,Stark,Friend of
+Bran,Jon,12,Stark,Sibling of
+Bran,Luwin,4,Stark,Mentor of
+Bran,Meera,54,Stark,Protector of
+Bran,Nan,14,Stark,Caretaker of
+Bran,Rickon,35,Stark,Sibling of
+Bran,Samwell,11,Stark,Friend of
+Bran,Theon,11,Stark,Ward of
+Brienne,Loras,7,Tarth,Rival of
+Bronn,Gregor,5,Sellsword,Enemy of
+Bronn,Podrick,19,Sellsword,Friend of
+Brynden,Brynden,7,Tully,Self
+Brynden,Lothar,4,Tully,Enemy of
+Brynden,Walder,5,Tully,Enemy of
+Catelyn,Bran,4,Stark,Son of
+Catelyn,Brienne,7,Stark,Protector of
+Catelyn,Brynden,8,Stark,Brother of
+Catelyn,Cersei,4,Stark,Enemy of
+Catelyn,Edmure,16,Stark,Brother of
+Catelyn,Hoster,9,Stark,Father of
+Catelyn,Jaime,19,Stark,Enemy of
+Catelyn,Jeyne,10,Stark,Daughter-in-law of
+Catelyn,Lysa,8,Stark,Sister of
+Catelyn,Petyr,5,Stark,Acquaintance of
+Catelyn,Robb,43,Stark,Son of
+Catelyn,Roose,4,Stark,Enemy of
+Catelyn,Roslin,6,Stark,Daughter-in-law of
+Catelyn,Sansa,8,Stark,Daughter of
+Catelyn,Stannis,4,Stark,Enemy of
+Catelyn,Tyrion,5,Stark,Enemy of
+Catelyn,Walder,19,Stark,Enemy of
+Cersei,Brienne,5,Lannister,Enemy of
+Cersei,Bronn,4,Lannister,Acquaintance of
+Cersei,Elia,4,Lannister,Enemy of
+Cersei,Gregor,6,Lannister,Subordinate of
+Cersei,Ilyn,7,Lannister,Executioner of
+Cersei,Jaime,36,Lannister,Sibling of
+Cersei,Joffrey,23,Lannister,Son of
+Cersei,Meryn,10,Lannister,Guard of
+Cersei,Pycelle,4,Lannister,Councillor of
+Cersei,Robert,16,Lannister,Spouse of
+Cersei,Sandor,6,Lannister,Guard of
+Cersei,Shae,4,Lannister,Enemy of
+Cersei,Tyrion,46,Lannister,Sibling of
+Cersei,Varys,4,Lannister,Acquaintance of
+Craster,Karl,6,Wildlings,Enemy of
+Daario,Drogo,4,Targaryen Ally,Acquaintance of
+Daario,Irri,5,Targaryen Ally,Friend of
+Daenerys,Aegon,8,Targaryen,Relative of
+Daenerys,Barristan,20,Targaryen,Protector of
+Daenerys,Belwas,26,Targaryen,Protector of
+Daenerys,Daario,14,Targaryen,Lover of
+Daenerys,Drogo,18,Targaryen,Spouse of
+Daenerys,Irri,17,Targaryen,Servant of
+Daenerys,Jorah,47,Targaryen,Protector of
+Daenerys,Kraznys,10,Targaryen,Enemy of
+Daenerys,Missandei,26,Targaryen,Advisor of
+Daenerys,Rakharo,7,Targaryen,Guard of
+Daenerys,Rhaegar,12,Targaryen,Relative of
+Daenerys,Robert,5,Targaryen,Enemy of
+Daenerys,Viserys,8,Targaryen,Sibling of
+Daenerys,Worm,14,Targaryen,Commander of
+Davos,Cressen,4,Baratheon,Loyalist of
+Davos,Salladhor,16,Baratheon,Ally of
+Eddard,Arya,18,Stark,Daughter of
+Eddard,Beric,8,Stark,Acquaintance of
+Eddard,Bran,15,Stark,Son of
+Eddard,Catelyn,5,Stark,Spouse of
+Eddard,Cersei,6,Stark,Enemy of
+Eddard,Jaime,6,Stark,Enemy of
+Eddard,Jon,8,Stark,Son of
+Eddard,Rickon,8,Stark,Son of
+Eddard,Robb,13,Stark,Son of
+Eddard,Robert,10,Stark,Friend of
+Eddard,Sandor,5,Stark,Acquaintance of
+Eddard,Sansa,6,Stark,Daughter of
+Eddison,Grenn,8,Night's Watch,Brother of
+Edmure,Brynden,7,Tully,Brother of
+Edmure,Lothar,4,Tully,Enemy of
+Edmure,Roslin,16,Tully,Spouse of
+Edmure,Walder,9,Tully,Enemy of
+Gendry,Thoros,7,Brotherhood Without Banners,Acquaintance of
+Gilly,Craster,17,Wildlings,Daughter of
+Gregor,Elia,9,Lannister,Enemy of
+Gregor,Ilyn,7,Lannister,Colleague of
+Gregor,Meryn,7,Lannister,Colleague of
+Gregor,Oberyn,24,Lannister,Enemy of
+Gregor,Sandor,12,Lannister,Sibling of
+Hodor,Jojen,35,Stark,Protector of
+Hodor,Meera,41,Stark,Protector of
+Hoster,Edmure,9,Tully,Son of
+Irri,Drogo,7,Targaryen,Servant of
+Jaime,Balon,6,Lannister,Enemy of
+Jaime,Barristan,4,Lannister,Colleague of
+Jaime,Brienne,88,Lannister,Protector of
+Jaime,Edmure,5,Lannister,Enemy of
+Jaime,Elia,4,Lannister,Acquaintance of
+Jaime,Gregor,6,Lannister,Subordinate of
+Jaime,Joffrey,15,Lannister,Son of
+Jaime,Loras,16,Lannister,Acquaintance of
+Jaime,Meryn,11,Lannister,Colleague of
+Jaime,Qyburn,11,Lannister,Ally of
+Jaime,Renly,7,Lannister,Enemy of
+Jaime,Robert,17,Lannister,King of
+Jaime,Stannis,5,Lannister,Enemy of
+Jaime,Tommen,8,Lannister,Son of
+Jaime,Tyrion,31,Lannister,Sibling of
+Janos,Alliser,9,Night's Watch,Colleague of
+Janos,Bowen,5,Night's Watch,Colleague of
+Janos,Mance,4,Night's Watch,Enemy of
+Joffrey,Gregor,5,Lannister,Subordinate of
+Joffrey,Ilyn,4,Lannister,Executioner of
+Joffrey,Kevan,8,Lannister,Uncle of
+Joffrey,Loras,7,Lannister,Acquaintance of
+Joffrey,Margaery,28,Lannister,Spouse of
+Joffrey,Meryn,5,Lannister,Guard of
+Joffrey,Myrcella,5,Lannister,Sibling of
+Joffrey,Oberyn,4,Lannister,Enemy of
+Joffrey,Sandor,14,Lannister,Guard of
+Joffrey,Stannis,10,Lannister,Enemy of
+Joffrey,Tommen,9,Lannister,Sibling of
+Joffrey,Tyrion,54,Lannister,Uncle of
+Jojen,Meera,33,Stark,Friend of
+Jojen,Samwell,11,Stark,Friend of
+Jon,Aemon,30,Night's Watch,Mentor of
+Jon,Alliser,15,Night's Watch,Enemy of
+Jon,Craster,7,Night's Watch,Enemy of
+Jon,Dalla,6,Free Folk,Ally of
+Jon,Eddison,4,Night's Watch,Friend of
+Jon,Gilly,9,Free Folk,Friend of
+Jon,Grenn,25,Night's Watch,Brother of
+Jon,Janos,8,Night's Watch,Enemy of
+Jon,Mance,69,Free Folk,Enemy turned ally of
+Jon,Meera,4,Stark,Ally of
+Jon,Melisandre,7,Stannis's Faction,Ally of
+Jon,Orell,6,Free Folk,Enemy of
+Jon,Qhorin,31,Night's Watch,Mentor of
+Jon,Rattleshirt,20,Free Folk,Enemy of
+Jon,Robert,5,Stark,King of
+Jon,Samwell,52,Night's Watch,Brother of
+Jon,Stannis,9,Stannis's Faction,Ally of
+Jon,Styr,16,Free Folk,Enemy of
+Jon,Theon,8,Stark,Ward turned traitor of
+Jon,Val,12,Free Folk,Ally of
+Jon,Ygritte,54,Free Folk,Lover of
+Jon Arryn,Lysa,5,Vale,Spouse of
+Jon Arryn,Robert,6,Vale,Son of
+Jorah,Barristan,11,Targaryen Ally,Colleague of
+Jorah,Belwas,13,Targaryen Ally,Colleague of
+Jorah,Daario,7,Targaryen Ally,Colleague of
+Jorah,Drogo,6,Targaryen Ally,Acquaintance of
+Kevan,Lancel,7,Lannister,Nephew of
+Kevan,Varys,5,Lannister,Acquaintance of
+Loras,Margaery,9,Tyrell,Brother of
+Loras,Olenna,5,Tyrell,Grandson of
+Lothar,Roslin,4,Frey,Family of
+Luwin,Nan,4,Winterfell,Colleague of
+Lysa,Cersei,4,Vale,Acquaintance of
+Lysa,Hoster,6,Vale,Father of
+Lysa,Marillion,10,Vale,Enemy of
+Lysa,Petyr,29,Vale,Lover of
+Lysa,Robert Arryn,9,Vale,Son of
+Lysa,Tyrion,5,Vale,Enemy of
+Lysa,Tywin,4,Vale,Enemy of
+Mance,Craster,11,Free Folk,Acquaintance of
+Mance,Dalla,8,Free Folk,Spouse of
+Mance,Gilly,7,Free Folk,Acquaintance of
+Mance,Qhorin,10,Free Folk,Enemy of
+Mance,Rattleshirt,9,Free Folk,Subordinate of
+Mance,Styr,7,Free Folk,Subordinate of
+Mance,Val,8,Free Folk,Ally of
+Mance,Ygritte,12,Free Folk,Subordinate of
+Meera,Samwell,7,Stark,Ally of
+Melisandre,Davos,30,Stannis's Faction,Enemy of
+Melisandre,Samwell,5,Stannis's Faction,Acquaintance of
+Meryn,Ilyn,5,Kingsguard,Colleague of
+Missandei,Irri,4,Targaryen,Colleague of
+Myrcella,Tommen,5,Lannister,Sibling of
+Myrcella,Tyrion,4,Lannister,Uncle of
+Oberyn,Ellaria,6,Dorne,Lover of
+Oberyn,Mace,6,Dorne,Acquaintance of
+Podrick,Margaery,4,King's Landing,Acquaintance of
+Rattleshirt,Qhorin,6,Free Folk,Enemy of
+Renly,Loras,8,Baratheon,Lover of
+Renly,Margaery,7,Baratheon,Spouse of
+Renly,Varys,4,Baratheon,Acquaintance of
+Rhaegar,Barristan,5,Targaryen,Guard of
+Rhaegar,Elia,7,Targaryen,Spouse of
+Rhaegar,Jorah,5,Targaryen,Acquaintance of
+Rhaegar,Robert,6,Targaryen,Enemy of
+Rickard,Brynden,4,Stark,Acquaintance of
+Rickon,Theon,8,Stark,Ward of
+Robb,Arya,15,Stark,Sibling of
+Robb,Balon,6,Stark,Enemy of
+Robb,Bran,23,Stark,Sibling of
+Robb,Brienne,6,Stark,Acquaintance of
+Robb,Brynden,17,Stark,Uncle of
+Robb,Edmure,32,Stark,Uncle of
+Robb,Hodor,5,Stark,Protector of
+Robb,Jaime,15,Stark,Enemy of
+Robb,Jeyne,18,Stark,Spouse of
+Robb,Joffrey,10,Stark,Enemy of
+Robb,Jon,14,Stark,Sibling of
+Robb,Lothar,10,Stark,Enemy of
+Robb,Petyr,5,Stark,Acquaintance of
+Robb,Ramsay,4,Stark,Enemy of
+Robb,Rickard,7,Stark,Grandfather of
+Robb,Rickon,15,Stark,Sibling of
+Robb,Roose,4,Stark,Enemy of
+Robb,Sansa,15,Stark,Sibling of
+Robb,Stannis,4,Stark,Acquaintance of
+Robb,Theon,11,Stark,Friend turned traitor of
+Robb,Tyrion,12,Stark,Enemy of
+Robb,Tywin,12,Stark,Enemy of
+Robb,Walder,26,Stark,Enemy of
+Robert,Aemon,4,Baratheon,Acquaintance of
+Robert,Barristan,5,Baratheon,Guard of
+Robert,Renly,4,Baratheon,Brother of
+Robert,Stannis,5,Baratheon,Brother of
+Robert,Thoros,4,Baratheon,Acquaintance of
+Robert Arryn,Marillion,4,Vale,Acquaintance of
+Roose,Brienne,4,Bolton,Enemy of
+Samwell,Bowen,6,Night's Watch,Colleague of
+Samwell,Craster,34,Night's Watch,Host of
+Samwell,Eddison,12,Night's Watch,Friend of
+Samwell,Gilly,36,Night's Watch,Lover of
+Samwell,Grenn,43,Night's Watch,Brother of
+Samwell,Janos,6,Night's Watch,Enemy of
+Samwell,Mance,10,Night's Watch,Enemy of
+Samwell,Qhorin,5,Night's Watch,Mentor of
+Sandor,Beric,15,Lannister,Enemy of
+Sandor,Gendry,5,Lannister,Acquaintance of
+Sandor,Ilyn,4,Lannister,Colleague of
+Sandor,Meryn,4,Lannister,Colleague of
+Sandor,Robert,6,Lannister,Acquaintance of
+Sandor,Thoros,10,Lannister,Enemy of
+Sansa,Arya,22,Stark,Sibling of
+Sansa,Bran,10,Stark,Sibling of
+Sansa,Brienne,5,Stark,Protector of
+Sansa,Cersei,16,Stark,Enemy of
+Sansa,Jaime,10,Stark,Enemy of
+Sansa,Joffrey,35,Stark,Spouse of
+Sansa,Jon,4,Stark,Sibling of
+Sansa,Kevan,5,Stark,Acquaintance of
+Sansa,Loras,14,Stark,Fiancé of
+Sansa,Lysa,28,Stark,Aunt of
+Sansa,Margaery,36,Stark,Friend of
+Sansa,Marillion,9,Stark,Enemy of
+Sansa,Myrcella,4,Stark,Acquaintance of
+Sansa,Olenna,7,Stark,Ally of
+Sansa,Petyr,28,Stark,Guardian of
+Sansa,Podrick,8,Stark,Protector of
+Sansa,Renly,4,Stark,Acquaintance of
+Sansa,Rickon,7,Stark,Sibling of
+Sansa,Robert,5,Stark,Acquaintance of
+Sansa,Robert Arryn,6,Stark,Cousin of
+Sansa,Sandor,6,Stark,Protector of
+Sansa,Shae,8,Stark,Friend of
+Sansa,Tyrion,77,Stark,Spouse of
+Shae,Chataya,4,Lannister,Colleague of
+Shae,Varys,8,Lannister,Contact of
+Shireen,Davos,5,Baratheon,Friend of
+Stannis,Aemon,4,Baratheon,Acquaintance of
+Stannis,Balon,4,Baratheon,Enemy of
+Stannis,Davos,32,Baratheon,Loyalist of
+Stannis,Melisandre,20,Baratheon,Advisor of
+Stannis,Renly,15,Baratheon,Brother and rival of
+Stannis,Samwell,13,Baratheon,Acquaintance of
+Tommen,Margaery,5,Baratheon,Spouse of
+Tyrion,Balon,4,Lannister,Acquaintance of
+Tyrion,Bronn,31,Lannister,Protector of
+Tyrion,Chataya,5,Lannister,Acquaintance of
+Tyrion,Doran,5,Lannister,Acquaintance of
+Tyrion,Elia,5,Lannister,Acquaintance of
+Tyrion,Ellaria,4,Lannister,Acquaintance of
+Tyrion,Gregor,22,Lannister,Enemy of
+Tyrion,Ilyn,5,Lannister,Acquaintance of
+Tyrion,Janos,5,Lannister,Enemy of
+Tyrion,Kevan,11,Lannister,Uncle of
+Tyrion,Loras,6,Lannister,Acquaintance of
+Tyrion,Mace,9,Lannister,Enemy of
+Tyrion,Margaery,7,Lannister,Acquaintance of
+Tyrion,Meryn,5,Lannister,Acquaintance of
+Tyrion,Oberyn,25,Lannister,Defender in trial of
+Tyrion,Petyr,12,Lannister,Acquaintance of
+Tyrion,Podrick,28,Lannister,Protector of
+Tyrion,Pycelle,11,Lannister,Acquaintance of
+Tyrion,Renly,6,Lannister,Acquaintance of
+Tyrion,Robert,9,Lannister,Acquaintance of
+Tyrion,Sandor,4,Lannister,Acquaintance of
+Tyrion,Shae,21,Lannister,Lover of
+Tyrion,Stannis,6,Lannister,Enemy of
+Tyrion,Varys,18,Lannister,Ally of
+Tywin,Balon,5,Lannister,Enemy of
+Tywin,Brynden,4,Lannister,Enemy of
+Tywin,Cersei,16,Lannister,Daughter of
+Tywin,Gregor,7,Lannister,Subordinate of
+Tywin,Jaime,13,Lannister,Son of
+Tywin,Joffrey,13,Lannister,Grandson of
+Tywin,Kevan,14,Lannister,Brother of
+Tywin,Mace,5,Lannister,Acquaintance of
+Tywin,Oberyn,6,Lannister,Enemy of
+Tywin,Petyr,4,Lannister,Acquaintance of
+Tywin,Podrick,5,Lannister,Acquaintance of
+Tywin,Pycelle,5,Lannister,Advisor of
+Tywin,Robert,11,Lannister,King of
+Tywin,Stannis,15,Lannister,Enemy of
+Tywin,Tommen,4,Lannister,Grandson of
+Tywin,Tyrion,39,Lannister,Son of
+Tywin,Val,4,Lannister,Acquaintance of
+Tywin,Varys,6,Lannister,Acquaintance of
+Tywin,Walder,4,Lannister,Ally of
+Val,Dalla,7,Free Folk,Sister of
+Varys,Pycelle,4,King's Landing,Colleague of
+Viserys,Rhaegar,7,Targaryen,Brother of
+Viserys,Tyrion,4,Targaryen,Acquaintance of
+Walder,Lothar,12,Frey,Family of
+Walder,Petyr,6,Frey,Ally of
+Walder,Roslin,6,Frey,Family of
+Walton,Jaime,10,Bolton,Captor of
+Ygritte,Qhorin,7,Free Folk,Enemy of
+Ygritte,Rattleshirt,9,Free Folk,Ally of
